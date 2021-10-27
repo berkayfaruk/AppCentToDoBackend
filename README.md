@@ -1,5 +1,8 @@
 # AppCent ToDoList SpringBoot
 
+Uygulamada Veri tabanı olarak PostgreSQL kullanılmıştır. Veri tabanı code first yaklaışımı ile oluşturulmuştur.
+Uygulamada kullanılan bağımlılıklar(dependencies) aşadağıki gibidir.
+
 ![Proje Oluşturulması](https://user-images.githubusercontent.com/59101018/139122553-b92d4df9-27ea-43bc-9ac2-daf1a29a1aaa.png)
 
 
