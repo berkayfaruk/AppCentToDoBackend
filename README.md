@@ -28,8 +28,8 @@ Aşağıda iş eklemesi yapılmıştır.
 ![Ekran görüntüsü 2021-10-27 201522](https://user-images.githubusercontent.com/59101018/139123689-3927c020-aa5d-46fe-830e-43f1dbbed52c.png)
 
 ## Örnek Olarak Yapılacak İşleri Listeleme  
-Asaşıda görüldüğü gibi yapılcak işler listelenmiştir. Bu noktada Core katmanında kurduğumuz Result yapıları sayesinde Front-end geliştiricilerin anlaycağı şekilde mesajlar 
-döndürülmüştür. Bu yapı sayesinde bu veya başka pir projede bir hata veya bir iş kuralına takılması durumunda front-end geliştiriciye kolaylıklar sağlanmıştır.
+Asaşıda görüldüğü gibi yapılacak işler Json formatında listelenmiştir. Bu noktada Core katmanında kurduğumuz Result yapıları sayesinde Front-end geliştiricilerin anlaycağı şekilde mesajlar 
+döndürülmüştür. Bu yapı sayesinde bu veya başka pir projede işin bir hata veya bir iş kuralına takılması durumunda front-end geliştiricilere kolaylıklar sağlanmıştır.
 
 ![Ekran görüntüsü 2021-10-27 201702](https://user-images.githubusercontent.com/59101018/139123879-7f44876a-c1be-44b6-8203-27435704dd25.png)
 
