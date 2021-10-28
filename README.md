@@ -21,7 +21,7 @@ Uygulumayı kullanacak olan kullanıcı için bir to do app te yapılacak ekleme
 
 ![Ekran görüntüsü 2021-10-27 200913](https://user-images.githubusercontent.com/59101018/139122728-61fc5ce2-0e8f-4013-9272-c446bb9f1b29.png)
 
-##Örnek Olarak Ekleme İşlemi 
+## Örnek Olarak Ekleme İşlemi 
 
 Aşağıda iş eklemesi yapılmıştır.
 
